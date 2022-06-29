@@ -1,0 +1,12 @@
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\bin\Debug\OOP_Laba_1.exe.config
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\bin\Debug\OOP_Laba_1.exe
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\bin\Debug\OOP_Laba_1.pdb
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\obj\Debug\OOP_Laba_1.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\obj\Debug\OOP_Laba_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\obj\Debug\OOP_Laba_1.Form1.resources
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\obj\Debug\OOP_Laba_1.Properties.Resources.resources
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\obj\Debug\OOP_Laba_1.csproj.GenerateResource.cache
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\obj\Debug\OOP_Laba_1.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\obj\Debug\OOP_Laba_1.exe
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\obj\Debug\OOP_Laba_1.pdb
+C:\Users\lukas\source\repos\OOP_Laba_1\OOP_Laba_1\obj\Debug\OOP_Laba_1.Form2.resources
